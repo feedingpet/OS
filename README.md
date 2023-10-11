@@ -1,2 +1,2 @@
 # OS
-Operating System code example 
+Operating System code example (Python is majority)
